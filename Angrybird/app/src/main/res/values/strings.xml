@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Angrybird</string>
+    <string-array name="list_name">
+        <item>hinh1</item>
+        <item>hinh2</item>
+        <item>hinh3</item>
+        <item>hinh4</item>
+        <item>hinh5</item>
+        <item>hinh6</item>
+        <item>hinh7</item>
+        <item>hinh8</item>
+        <item>hinh9</item>
+        <item>hinh10</item>
+        <item>hinh11</item>
+        <item>hinh12</item>
+        <item>hinh13</item>
+        <item>hinh14</item>
+        <item>hinh15</item>
+        <item>hinh16</item>
+        <item>hinh17</item>
+        <item>hinh18</item>
+        <item>hinh19</item>
+        <item>hinh20</item>
+        <item>hinh21</item>
+        <item>hinh22</item>
+        <item>hinh23</item>
+        <item>hinh24</item>
+    </string-array>
+</resources>
